@@ -1,0 +1,65 @@
+<style>
+    .times {
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .gothic {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .bisque_bg {
+        background-color:bisque 
+    }
+    .mintcream_bg {
+        background-color: mintcream;
+    }
+    .burlywood_bg {
+        background-color: burlywood;
+    }
+    .margin {
+        margin-top: auto; margin-bottom: auto; margin-left: auto; margin-right: auto;
+    }
+    .footer {
+        text-align: center;
+        background-color: mintcream;
+        padding: 1em;
+        width: 100%;
+    }
+    .box {
+        margin: 5%;
+        border: 5px dashed brown;
+        border-radius: 75px;
+        width: 300px;
+        padding: 20px;
+        height: 215px
+    }
+    .box2 {
+        margin: 5%;
+        border: 5px dashed brown;
+        border-radius: 75px;
+        width: 75%;
+        padding: 20px;
+        height: 10%
+    }
+    a {
+        text-decoration: none;
+        color: blue;
+    }
+    a:hover{
+        color: blueviolet;
+        text-decoration: wavy;
+        background-color: chartreuse;
+    }
+    .img_size{
+        width: 65%;
+    }
+    header{
+        background-color: darkred;
+        color: thistle;
+    }
+    h3 + ul {
+        margin: 5%;
+        border: 5px dashed brown;
+        border-radius: 75px;
+        width: 75%;
+        padding: 10%;
+        height: 10%
+    }

@@ -1,0 +1,120 @@
+<style>
+    .times {
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .gothic {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .bisque_bg {
+        background-color:bisque 
+    }
+    .mintcream_bg {
+        background-color: mintcream;
+    }
+    .burlywood_bg {
+        background-color: burlywood;
+    }
+    .margin {
+        margin-top: auto; margin-bottom: auto; margin-left: auto; margin-right: auto;
+    }
+    footer {
+        text-align: center;
+        background-color: mintcream;
+        width: 521px;
+        padding-right: 100px;
+    }
+    .box {
+        margin: 5%;
+        border: 5px dashed brown;
+        border-radius: 75px;
+        width: 75%;
+        padding: 20px;
+        height: 75%
+    }
+    .box2 {
+        margin: 5%;
+        border: 5px dashed brown;
+        border-radius: 75px;
+        width: 75%;
+        padding: 20px;
+        height: 10%
+    }
+    .link1 {
+        text-decoration: none;
+        color: blue;
+    }
+    .link1:hover{
+        color: blueviolet;
+        text-decoration: wavy;
+        background-color: chartreuse;
+    }
+    .img_size{
+        width: 65%;
+    }
+    header{
+        text-align: center;
+        background-color: darkred;
+        color: thistle;
+    }
+    h3 + ul {
+        margin: 5%;
+        border: 5px dashed brown;
+        border-radius: 75px;
+        width: 260px;
+        padding: 42px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        padding-right: 30px;
+        height: 10%
+    }
+    h3 {
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+        background-color: mintcream;
+        width: 251px;
+        padding-left: 15%;
+        padding-right: 15%;
+        margin-bottom: 2%;
+    
+    }
+    p {
+        margin-left: auto;
+    }
+    .button {
+        display: inline-block;
+        text-align: center;
+        background-color: grey;
+        border: none;
+        padding-left: 15%;
+        padding-right: 15%;
+        padding-top: 5%;
+        padding-bottom: 5%;
+        width: 251px;
+        border-radius: 8px;
+        font-size: 18px;
+        font-weight: bold;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        margin-bottom: 2%;
+        margin-top: 2%;
+        
+    }
+    .button:hover {
+        background-color: darkgrey; 
+        transform: scale(1.05);
+    }
+    .submit-link {
+        display: inline-block;
+        padding: 10px 20px;
+        font-size: 16px;
+        color: #fff;
+        background-color: #28a745;
+        text-decoration: none;
+        border-radius: 5px;
+        text-align: center;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+    .submit-link:hover {
+        background-color: #218838;
