@@ -103,18 +103,4 @@
         background-color: darkgrey; 
         transform: scale(1.05);
     }
-    .submit-link {
-        display: inline-block;
-        padding: 10px 20px;
-        font-size: 16px;
-        color: #fff;
-        background-color: #28a745;
-        text-decoration: none;
-        border-radius: 5px;
-        text-align: center;
-        cursor: pointer;
-        transition: background-color 0.3s ease;
-    }
-
-    .submit-link:hover {
-        background-color: #218838;
+    
